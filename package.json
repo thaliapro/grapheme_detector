@@ -1,0 +1,16 @@
+{
+  "name": "grapheme_detector",
+  "version": "1.0.0",
+  "description": "Génére un excel de nombre de grapheme à partir d'une liste de mot",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Thalia",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.21.0"
+  }
+}
